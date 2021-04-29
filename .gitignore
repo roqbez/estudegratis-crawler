@@ -1,0 +1,10 @@
+target/
+.settings
+.project
+.classpath
+**.class
+.svn
+rebel.xml
+data
+cache
+secrets
